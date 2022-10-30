@@ -11,7 +11,7 @@ function App() {
   const usersData = [
     { id:1, name: 'Harish', username: 'harish7' },
     { id:2, name: 'abc', username: 'abc123' },
-    { id:3, name: 'xyz', username: 'xyz123' },
+    { id:3, name: 'xyz', username: 'xyz143' },
   ]
   const [users, setUsers] = useState(usersData)
   const [ editing, setEditing ] = useState(false)
